@@ -2,8 +2,12 @@
 
 created with create-react-app script 
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+Clone the repo
+   ```sh
+git clone https://github.com/gurprit/holidayextratask.git
+   ```
+npm start 
 
 
